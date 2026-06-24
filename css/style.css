@@ -1,0 +1,27 @@
+body{
+  background:#0f172a;
+  color:white;
+  font-family:Segoe UI,sans-serif;
+}
+
+nav{
+  display:flex;
+  justify-content:space-between;
+  padding:20px 10%;
+}
+
+.logo{
+  font-size:24px;
+  font-weight:bold;
+}
+
+ul{
+  display:flex;
+  gap:25px;
+  list-style:none;
+}
+
+a{
+  color:white;
+  text-decoration:none;
+}
